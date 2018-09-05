@@ -475,6 +475,13 @@ html, body {
   background-position: 15% 200px;
 }
 
+.camisetas img {
+  float: right;
+  width: 450px;
+  margin-right: 10%;
+  margin-top: 10%;
+}
+
 .escudo {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -494,15 +501,8 @@ html, body {
   font-size: 30px;
 }
 
-.camisetas img {
-  float: right;
-  width: 450px;
-  margin-right: 10%;
-  margin-top: 10%;
-}
-
 h2#arsenal {
-  color: #cd0c13;
+  color: #fddbdc;
 }
 
 #arsenal-local {
